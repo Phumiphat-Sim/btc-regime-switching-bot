@@ -3,8 +3,8 @@
 An institutional-grade systematic trading framework designed to trade high-volatility digital assets (specifically BTC/USDT). The core objective of this project is to implement strict risk controls and structural flexibility to navigate shifting market phases while aggressively mitigating downside risk.
 
 ## 🚀 Key Performance Metrics (Backtest Results 2020 - 2026)
-* **Initial Capital:** 300.00 USDT
-* **Final Portfolio Value:** 399.00 USDT
+* **Initial Capital:** 1,000.00 USDT
+* **Final Portfolio Value:** 1,330.00 USDT
 * **Net Return:** +33.00% (Fully accounted for a conservative 0.1% transaction fee per trade)
 * **Maximum Drawdown (MDD):** **-4.31%** (Achieved extreme downside protection compared to BTC's asset drawdown of over -70% during the same period)
 * **Calmar Ratio:** **7.65** (Demonstrates exceptional risk-adjusted efficiency by generating 7.65x return relative to the maximum peak-to-trough equity drop)
